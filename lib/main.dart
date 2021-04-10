@@ -1,7 +1,8 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:google_signin_example/screens/category_questions_screen.dart';
+import './screens/category_questions_screen.dart';
+import './screens/postQuestion.dart';
 import './page/home_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 
@@ -36,6 +37,8 @@ class MyApp extends StatelessWidget {
         home: HomePage(),
     routes: {
           '/category_questions': (ctx) => QuestionScreen(),
+          '/post_question' : (ctx) => PostQuestion(),
+
     },
       );
 }

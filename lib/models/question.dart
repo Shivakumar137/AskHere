@@ -11,7 +11,7 @@ class Question {
   const Question({
     // @required this.title,
     @required this.question,
-    @required this.tags,
+    this.tags,
     @required this.urgency,
     @required this.category,
     this.isAnswered = false,

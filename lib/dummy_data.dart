@@ -76,8 +76,7 @@ const DUMMY_CATEGORIES = const [
     color: Colors.black26,
   ),
 ];
-
-const DUMMY_QUESTIONS = const [
+ final DUMMY_QUESTIONS = [
   Question(
     question: 'What is a dictionary in Python?',
     tags: [
