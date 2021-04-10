@@ -25,10 +25,10 @@ And one more important feature is **anonymity**. Your identity wont be revealed 
 
   
 ## Demo Video Link:
-  <a href="https://docs.google.com/document/d/1NIUFvEIIgFccN1H2X7W6MBz2hLl8iZX-m4grEx1OyqM/edit</a>
+  <a href="https://drive.google.com/file/d/19942pFppqL1hEYfC09XONs6AX2xUGnSP/view?usp=drivesdk">Video Link</a>
   
 ## Presentation Link:
-  <a href="https://docs.google.com/presentation/d/1NEbqpM6J6UkmHN_J6NsgOhKvDU6fkfnli4OIg1lh-pk/edit?usp=sharing"> ppt link here </a>
+  <a href="https://my.visme.co/view/x4ey780w-onz2g0peogp05e6p"> PPT link </a>
   
   
 ## Table of Contents:
