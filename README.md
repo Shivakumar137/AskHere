@@ -1,16 +1,19 @@
-![alt text](https://i.ibb.co/3vMYD6M/Made-at-Hack-36.png)
+<h1 align="center">Hack36 Template Readme</h1>
+<p align="center">
+</p>
 
-**AskHere**
-
-Ask, Answer and Earn Coins.
-
-**Introduction**: 
-Many of us get many doubts and come across various problems while learning new technologies, while making projects, and we get many small and silly doubts in our day-to-day life.
+<a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
 
 
-**Problem**: There are many platforms across the internet for asking questions and seeking answers but we are not guaranteed that we get answer soon. It might take days and sometimes weeks to get an answer you are looking for.
+## Introduction:
+  Many of us get many doubts and come across various problems while learning new technologies, while making projects, and we get many small and silly doubts in our day-to-day life.
 
-**Solution**:  We came up with a better solution for that. In our app AskHere, its almost the same like the resources existing now, but with an **enhancement**. 
+
+##Problem:
+ There are many platforms across the internet for asking questions and seeking answers but we are not guaranteed that we get answer soon. It might take days and sometimes weeks to get an answer you are looking for.
+
+##Solution:
+   We came up with a better solution for that. In our app AskHere, its almost the same like the resources existing now, but with an **enhancement**. 
 
 In AskHere, you get some **'coins'** initially which can be treated like **virtual currency for the app**. 
 _To ask a question in AskHere, you need to use some of your coins and these coins will be rewarded to the one with best and quick answer._ 
@@ -20,12 +23,33 @@ The more coins you assign to the question, the more likely everyone will be inte
 *One can earn coins from answering the questions, from weekly rewards for active participation and completion of some challenges.*
 And one more important feature is **anonymity**. Your identity wont be revealed unless you want it to be.
 
+  
+## Demo Video Link:
+  <a href="https://docs.google.com/document/d/1NIUFvEIIgFccN1H2X7W6MBz2hLl8iZX-m4grEx1OyqM/edit</a>
+  
+## Presentation Link:
+  <a href="https://docs.google.com/presentation/d/1NEbqpM6J6UkmHN_J6NsgOhKvDU6fkfnli4OIg1lh-pk/edit?usp=sharing"> ppt link here </a>
+  
+  
+## Table of Contents:
 
-**Team: T.O.S.S.**
-Team Members: Yadhu Vamsi Yadava (Admin), Sikkalwar Shiva Kumar, Jaya Prakash Reddy, M Sai Charan Reddy
+## Technology Stack:
+  1) Flutter 
+  2) Dart
+  3) Firebase Authentication
+  4) Firestore
+  5) Android Studio
+  
 
-**Technologies Used**: Flutter, Dart, Firebase Authentication, Firestore, Github, Android Studio
+## Contributors:
 
-![alt text](https://i.ibb.co/3vMYD6M/Made-at-Hack-36.png)
+Team Name: T.O.S.S.
+
+* [Yadhu Vamsi Yadava](https://github.com/iamYadhu)
+* [Sikkalwar Shiva Kumar](https://github.com/Shivakumar137)
+* [Jaya Prakash Reddy](https://github.com/)
+* [M Sai Charan Reddy](https://github.com/)
 
 
+### Made at:
+<a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
