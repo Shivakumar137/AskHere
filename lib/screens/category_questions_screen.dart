@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import '../widget/questionLayout.dart';
+import '../dummy_data.dart';
 
 class QuestionScreen extends StatelessWidget {
 
@@ -17,13 +19,18 @@ class QuestionScreen extends StatelessWidget {
     final color = routeArgs['color'];
     final categoryTag = routeArgs['tag'];
 
+    final categoryQuestions = DUMMY_QUESTIONS.where((meal){
+      return meal.category == categoryTopic;
+    }).toList();
+
     return Scaffold(
       appBar: AppBar(
         title: Text(categoryTopic),
       ),
-      body: Center(
-        child: Text('Category Questions!', style: TextStyle(color: color),),
-      ),
-    );
+      body: ListView.builder(itemBuilder: (ctx, index){
+        return QuestionWidget(categoryQuestions[index]);
+      },itemCount: categoryQuestions.length,)
+      );
+
   }
 }

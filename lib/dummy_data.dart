@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import './models/question.dart';
 import 'models/category.dart';
 
 import './models/category.dart';
@@ -74,5 +75,73 @@ const DUMMY_CATEGORIES = const [
     topic: 'Flutter',
     color: Colors.black26,
   ),
+];
 
+const DUMMY_QUESTIONS = const [
+  Question(
+    question: 'What is a dictionary in Python?',
+    tags: [
+      'Dictionary',
+      'Baisc',
+    ],
+    urgency: 8,
+    category: 'Python',
+    isAnswered: false,
+  ),
+
+  Question(
+    question: '2*2?',
+    tags: [
+      'Math',
+      'Multiplication',
+      'Basic',
+    ],
+    urgency: 5,
+    category: 'Math',
+    isAnswered: false,
+  ),
+
+  Question(
+    question: 'What is a dictionary in Python?',
+    tags: [
+      'Dictionary',
+      'Baisc',
+    ],
+    urgency: 8,
+    category: 'Flutter',
+    isAnswered: true,
+  ),
+
+  Question(
+    question: 'What is a dictionary in Python?',
+    tags: [
+      'Dictionary',
+      'Baisc',
+    ],
+    urgency: 8,
+    category: 'Python',
+    isAnswered: true,
+  ),
+
+  Question(
+    question: 'Vakeel Saab Openings?',
+    tags: [
+      'FDFS',
+      'Pawan Kalyan',
+    ],
+    urgency: 5,
+    category: 'Movies',
+    isAnswered: false,
+  ),
+
+  Question(
+    question: 'What is a dictionary in Python?And what are the uses of it and when is it used commonly? Please help me out',
+    tags: [
+      'Dictionary',
+      'Baisc',
+    ],
+    urgency: 2,
+    category: 'OOP',
+    isAnswered: false,
+  ),
 ];

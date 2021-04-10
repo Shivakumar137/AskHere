@@ -11,7 +11,7 @@ class CategoryItem extends StatelessWidget {
 
   void selectCategory(BuildContext ctx) {
     Navigator.of(ctx).pushNamed(
-      '/categoryQuestions',
+      '/category_questions',
       arguments: {
         'tag': tag,
         'title': title,
