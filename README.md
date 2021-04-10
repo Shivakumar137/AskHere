@@ -9,10 +9,10 @@
   Many of us get many doubts and come across various problems while learning new technologies, while making projects, and we get many small and silly doubts in our day-to-day life.
 
 
-##Problem:
+**Problem**:
  There are many platforms across the internet for asking questions and seeking answers but we are not guaranteed that we get answer soon. It might take days and sometimes weeks to get an answer you are looking for.
 
-##Solution:
+**Solution**:
    We came up with a better solution for that. In our app AskHere, its almost the same like the resources existing now, but with an **enhancement**. 
 
 In AskHere, you get some **'coins'** initially which can be treated like **virtual currency for the app**. 
